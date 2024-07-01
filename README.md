@@ -54,7 +54,3 @@ MIT License
 ## Контакты
 
 Если у вас есть вопросы по проекту, пожалуйста, свяжитесь со мной по почте lunaplaysdota@gmail.com или ЛС в Telegram @Degurechaff97
-
-## Контакты
-
-Если у вас есть вопросы по проекту, пожалуйста, свяжитесь со мной по почте lunaplaysdota@gmail.com или ЛС в Telegram @Degurechaff97
